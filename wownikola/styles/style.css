@@ -1,0 +1,13 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: Open Sans;
+}
+
+p, li {
+  font-size: 20px;    
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 1px;
+  font-family: Open Sans;
+}
