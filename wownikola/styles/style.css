@@ -11,3 +11,11 @@ p, li {
   letter-spacing: 1px;
   font-family: Open Sans;
 }
+
+a {
+  font-size: 20px;    
+  text-align: center;
+  line-height: 2;
+  letter-spacing: 1px;
+  font-family: Open Sans;
+}
